@@ -8,7 +8,6 @@ Peut être utilisé comme modèle pour un portfolio ou une présentation personn
 ## Fichiers
 - `index.html` : structure HTML de la carte  
 - `styles.css` : styles et mise en page  
-- `images/` (optionnel) : dossier contenant les images locales utilisées dans le projet
 
 ## Auteur
 Suzanna J.
